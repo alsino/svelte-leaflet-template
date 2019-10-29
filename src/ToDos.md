@@ -1,4 +1,4 @@
 # ToDos
 
 - Load Attribute data via d3 csv
-- Shjow basemap from certain zoom level
+- Show basemap from certain zoom level
